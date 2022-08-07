@@ -6,7 +6,6 @@ if(a > b)
 {
     if(a > c) Console.Write(a);
     else Console.Write(c);
-         
 }
 else
 {
