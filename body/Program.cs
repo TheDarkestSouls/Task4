@@ -11,6 +11,5 @@ if(a > b)
 else
 {
     if(b > c) Console.Write(b);
-    else Console.Write(c);
-         
+    else Console.Write(c);        
 }
